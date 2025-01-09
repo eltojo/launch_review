@@ -21,6 +21,7 @@ import 	android.content.pm.ActivityInfo;
 import androidx.annotation.NonNull;
 
 import java.util.List;
+import android.widget.Toast;
 /**
  * LaunchReviewPlugin
  */
